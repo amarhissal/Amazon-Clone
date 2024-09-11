@@ -30,7 +30,7 @@
         border-radius: 3px;
     }
     .logo{
-        background-image: url('/Images/amazon_logo.png');
+        background-image: url('./Images/amazon_logo.png');
         background-size: cover;
         height: 50px;
         width: 100px;
@@ -150,7 +150,7 @@
 
         .heroImage{
             height: 350px;
-            background-image: url('/Images/hero_image.jpg');
+            background-image: url('./Images/hero_image.jpg');
             background-size: cover;
             display: flex;
             justify-content: center;
@@ -255,7 +255,7 @@
             justify-content: center;
         }
         .footer-image{
-            background-image: url('/Images//amazon_logo.png');
+            background-image: url('./Images//amazon_logo.png');
             background-size: cover;
         height: 50px;
         width: 100px;
